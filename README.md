@@ -50,11 +50,17 @@ I build the boring, load-bearing parts: Java and Python backends, the Kubernetes
 - 🧩 **[cursor/plugins](https://github.com/vtri950/plugins)** - Cursor plugin specification and official plugins
 - 📚 **[ai-primitives-hub](https://github.com/vtri950/prompt-registry-fork)** - Amadeus prompt and skill registry for Copilot
 
-## What I'm Doing
+## What I've Been Doing
 
-- **Closing the loop** - QA agents that run scenarios, file issues, and builder agents that fix them and raise PRs, with humans only starting the session
+- **Closing the loop** - QA agents that run scenarios and file issues, and builder agents that fix them and raise PRs, with humans only starting the session
 - **Modernising old Java** - JDK 17, JBoss EAP 8, Podman, Helm; the migrations nobody tweets about
 - **Packaging what I learn as skills** - so the next agent (or person) starts further ahead
+
+## What I'm Doing Now
+
+- **Wrapping up 3 years at Amadeus** in October 2026 and looking for the next full-stack, platform or AI-agent engineering role
+- **Keeping the open-source tools above alive** - skills, risk-gate, planview and v_slash
+- **Exploring the agent loop as a pattern** outside any one company's pipeline
 - **Grinding problems** - on [LeetCode](https://leetcode.com/u/prime_255/) and NeetCode
 
 ## Connect
