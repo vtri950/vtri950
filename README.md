@@ -50,10 +50,6 @@ I build the boring, load-bearing parts: Java and Python backends, the Kubernetes
 - 🧩 **[cursor/plugins](https://github.com/vtri950/plugins)** - Cursor plugin specification and official plugins
 - 📚 **[ai-primitives-hub](https://github.com/vtri950/prompt-registry-fork)** - Amadeus prompt and skill registry for Copilot
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=vtri950&hide_border=true)
-
 ## What I'm Doing
 
 - **Closing the loop** - QA agents that run scenarios, file issues, and builder agents that fix them and raise PRs, with humans only starting the session
